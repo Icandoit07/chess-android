@@ -9,7 +9,7 @@
 1. Download **[Android Studio](https://developer.android.com/studio/index.html)** from the Google Developers site or using this [link](https://developer.android.com/studio/index.html).
 2. Install the file to your pc.
 3. Download the required **SDK(Standard Development Kit) Tools** .
-4. **[Clone the repository](https://github.com/Icandoit07/Chess-master.git)** from : "https://github.com/Icandoit07/Chess-master.git".
+4. **[Clone the repository](https://github.com/Icandoit07/chess-android.git)** from : "https://github.com/Icandoit07/Chess-master.git".
 5. Open the project in Android Studio.
 6. For launching the project you can either :
 	1. **Install emulator**
